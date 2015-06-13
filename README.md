@@ -1,6 +1,7 @@
 # Down the Rabbit hole
 
-This is a game developed with Unity3D 5.1 for Animafest 2015 Zagreb.
+This is a game developed with Unity3D 5.1 for
+[Animafest Zagreb 2015](http://www.animafest.hr/en/2015/home).
 It was created in 5 days.
 
 ## About the game
